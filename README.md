@@ -1,4 +1,3 @@
-# Tiny_Language_Compiler
 # TINY Language Compiler
 
 ### Overview
