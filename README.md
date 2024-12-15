@@ -4,7 +4,7 @@
 ### Overview
 This project is a **TINY Language Parser** that allows users to parse TINY language code, analyze its structure, and generate a syntax tree visualization.
 
-**Download TINY Compiler **: [Download EXE](https://drive.google.com/file/d/1Z2qrmO4NIhf0cRx7f1LCN1hwkN8muVTg/view?usp=sharing)
+**Download TINY Compiler**: [Download EXE](https://drive.google.com/file/d/1Z2qrmO4NIhf0cRx7f1LCN1hwkN8muVTg/view?usp=sharing)
 
 
 ## Main Features
