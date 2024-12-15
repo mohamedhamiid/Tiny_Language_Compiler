@@ -269,6 +269,7 @@ void MainWindow::runScanner()
         QMessageBox::warning(this, "Warning", "Please load a file first!");
         return;
     }
+    error = 0;
     std::ostringstream scannerOutput;
     std::streambuf *originalCoutBuffer = std::cout.rdbuf(scannerOutput.rdbuf()); // Redirect std::cout
 
@@ -410,6 +411,7 @@ void MainWindow::runParser() {
     }
     try {
         allTokens.clear();
+        error = 0;
         if (tokensInputRadioButton != nullptr && tokensInputRadioButton->isChecked()) {
             QStringList lines = fileContent.split("\n");  // Split the input into lines
             int lineNum = 1;
