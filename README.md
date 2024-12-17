@@ -25,6 +25,6 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 - Rana Amr Abdelnaby
 - Hossam Tarek Elsayed
 ### Scanner Logic
-- Ahmed Gamal Helmy: 2000082
-- Mariam Ahmed Abd elgalil: 2001273
-- Ahmed Yousry Mohamed: 2000205
+- Ahmed Gamal Helmy
+- Mariam Ahmed Abd elgalil
+- Ahmed Yousry Mohamed
