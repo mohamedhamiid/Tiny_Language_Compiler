@@ -18,10 +18,13 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 ---
 
 ## Contributors 
-1. Anas Hamed Ahmed Hamed Ali: 2001584
-2. Mohamed Abdelhamid Abdelhares: 2001087
-5. Ahmed Gamal Helmy: 2000082
-3. Mariam Ahmed Abd elgalil: 2001273
-4. Rana Amr Abdelnaby: 2000256
-6. Ahmed Yousry Mohamed: 2000205
-7. Hossam Tarek Elsayed: 2000078
+### GUI and Integration:
+- Mohamed Abdel Hamid
+### Parser Logic:
+- Anas Hamed Ahmed Hamed Ali
+- Rana Amr Abdelnaby
+- Hossam Tarek Elsayed
+### Scanner Logic
+- Ahmed Gamal Helmy: 2000082
+- Mariam Ahmed Abd elgalil: 2001273
+- Ahmed Yousry Mohamed: 2000205
