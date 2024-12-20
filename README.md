@@ -20,10 +20,10 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 ## Contributors 
 ### GUI and Integration:
 - Mohamed Abdel Hamid
+- Hossam Tarek Elsayed
 ### Parser Logic:
 - Anas Hamed Ahmed Hamed Ali
 - Rana Amr Abdelnaby
-- Hossam Tarek Elsayed
 ### Scanner Logic
 - Ahmed Gamal Helmy
 - Mariam Ahmed Abd elgalil
