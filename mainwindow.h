@@ -12,11 +12,8 @@
 #include <QPlainTextEdit>
 #include <QRadioButton>
 #include <QButtonGroup>
-#include <sstream>
-#include <string>
 #include <vector>
 
-#include "LineNumbering.h"
 #include "scanner.h"
 
 QString darkThemeStyleSheet();
