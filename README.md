@@ -14,6 +14,43 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 - **Rank Nodes**: Handle nodes of the same rank for clean tree representation.
 - **Error Detection**: Identify syntax errors in the input code.
 - **File Upload**: Load `.txt` files containing TINY code.
+- **Empty Content Handling**: When no file imported, Parser and Scanner buttons are deactivated.
+
+---
+## Screenshots and testcases
+### Browsing:
+![browse](https://github.com/user-attachments/assets/da5bc0d9-9053-48f5-9dd4-e2afef4fc2a0)
+### Importing code with lines numbered
+![Code Imported](https://github.com/user-attachments/assets/a6d51f51-49d2-44ca-ba15-0ca966a52096)
+### NO ERRORS
+- The code is completely correct.
+#### Run Scanner
+![RunScanner](https://github.com/user-attachments/assets/62d59875-6160-445b-891c-d600fe526366)
+#### Run Parser and Display Parse Tree
+![RunParser](https://github.com/user-attachments/assets/dc74419e-65fc-4e1d-a83e-f230884ac101)
+### ERROR in Scanning
+- Adding '^' at line 6 (which is not supported in TINY) instead of '+'
+#### Run Scanner
+![Error in scanner](https://github.com/user-attachments/assets/e598d808-612b-426a-959e-d0e492b65d4d)
+#### Run Parser
+![RunParser  in scanner errors](https://github.com/user-attachments/assets/b0037a97-6afd-4f7e-9d5d-fc84ff0c04ee)
+### ERROR in Parsing
+- Replace 'if' with 'IF' at line 3, so 'IF' is considered as identifier expected ':=' after it.
+#### Run Scanner
+![Run Scanner in parser error](https://github.com/user-attachments/assets/c9c3e1f3-bcdc-462b-8ccc-60d4c2068b32)
+#### Run Parser
+![Error in parser](https://github.com/user-attachments/assets/dc2515e6-4b1d-4324-b381-c0277c6414bc)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
