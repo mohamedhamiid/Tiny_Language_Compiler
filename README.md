@@ -40,6 +40,12 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 ![Run Scanner in parser error](https://github.com/user-attachments/assets/c9c3e1f3-bcdc-462b-8ccc-60d4c2068b32)
 #### Run Parser
 ![Error in parser](https://github.com/user-attachments/assets/dc2515e6-4b1d-4324-b381-c0277c6414bc)
+### Imported list of tokens:
+- The run parser button is deactivated when the tokens buttons is selected
+![Tokens as input](https://github.com/user-attachments/assets/9f6a17fd-bba8-436c-8527-4d590e75ade8)
+#### Run Parser
+![RunParser when Iist of Tokens is input](https://github.com/user-attachments/assets/c2953952-d380-4f55-8a21-ce7a50065bc4)
+
 
 
 
