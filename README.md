@@ -7,13 +7,13 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 
 
 ## Main Features
-- **Code Input**: Write or upload TINY language code file.
+- **Code Input**:Upload TINY language code or list of tokens file as `.txt`.
+- **Scan**: Generate list of tokens by scanning the input code.
 - **Parse**: Generate the syntax tree by parsing the input code.
 - **Parse by Tokens**: Analyze TINY code structure by processing tokens directly.
 - **Syntax Tree Visualization**: Visualize the syntax tree.
 - **Rank Nodes**: Handle nodes of the same rank for clean tree representation.
 - **Error Detection**: Identify syntax errors in the input code.
-- **File Upload**: Load `.txt` files containing TINY code.
 - **Empty Content Handling**: When no file imported, Parser and Scanner buttons are deactivated.
 
 ---
