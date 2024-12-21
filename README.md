@@ -28,7 +28,7 @@ This project is a **TINY Language Parser** that allows users to parse TINY langu
 ![RunScanner](https://github.com/user-attachments/assets/62d59875-6160-445b-891c-d600fe526366)
 #### Run Parser and Display Parse Tree
 ![RunParser](https://github.com/user-attachments/assets/dc74419e-65fc-4e1d-a83e-f230884ac101)
-### ERROR in Scanning
+### ERROR in Scanning Scenarios:
 - Adding '^' at line 6 (which is not supported in TINY) instead of '+'
 #### Run Scanner
 ![Error in scanner](https://github.com/user-attachments/assets/e598d808-612b-426a-959e-d0e492b65d4d)
